@@ -6,6 +6,8 @@ body{
     background: rgb(247,239,247);
 }
 
+/* Header Section Start  */
+
 #main-header{
     background: rgb(140 ,0 ,255);
     color: white;
@@ -13,8 +15,12 @@ body{
     text-align: center;
     font-weight: 900;
     font-size: 1.2rem;
-    box-shadow: 0px 2px 10px rgb(178, 175, 175);
+    /* box-shadow: 0px 2px 10px rgb(178, 175, 175); */
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+
 }
+ 
+/* All button styling section start  */
 
 .btn{
     font-family: inherit;
@@ -41,3 +47,5 @@ body{
     background: rgb(235,201,252);
 border-color: transparent;
 }
+
+/* Overlay styling (confirm) start  */
